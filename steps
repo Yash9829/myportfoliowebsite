@@ -1,0 +1,17 @@
+create different pages include their path using route and routes in app.js
+
+to make hamburger menu functional we write some js code in navbar using useState hook
+
+
+
+after 1hr, after creating navbar and heroimg
+we have to create footer section which is common to every page we have
+
+after creating the left and right divs and corresponding elements in them noiw lets style them as we have to place them on left and right sides
+to do that use
+display: grid
+grid-template-column : repeat(2, 1fr)
+grid-gap : 40px
+
+have to create simple and dynamic cards
+
